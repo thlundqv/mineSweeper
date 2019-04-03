@@ -1,0 +1,23 @@
+/*  mineSweeper
+by Linus Backlund
+feb 2019
+*/
+
+body {
+  background-color: lightblue;
+}
+canvas {
+  display: block;
+  margin: auto;
+  border: 2px solid black;
+}
+.reset {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  background-color: lightgrey;
+  border: 2px solid black;
+  font-size: 25px;
+  font-weight: bold;
+}
